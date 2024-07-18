@@ -1,8 +1,9 @@
 import Password from "./components/password/Password"
 import CartCounter from "./components/card/CartCounter"
-import Charge from "./components/charge/Charge"
+
 import Hearttoggle from "./components/hertToggle/Hearttoggle"
-import Button from "./components/button/Button"
+
+import Charge from "./components/charge/Charge"
 
 Hearttoggle
 function App() {
@@ -12,7 +13,7 @@ function App() {
     {/*<Hearttoggle/>*/}
     {/* <CartCounter/> */}
 {/* <Password/> */}
-{/*<Charge/>*/}
+<Charge/>
 {/*<Button/>*/}
     </>
   )
